@@ -26,7 +26,10 @@
 
 ### <a id="1">方式一</a>
 
+![图片方式三永远可用](https://github.com/dugu61888/Job_position/blob/master/en_D1C4DE8A-FD65-4CF1-9782-8FB463AB1666.png "猫眼校招")
+
 ### <a id="2">方式二</a>
+
 
 ### <a id="3">方式三</a>
 
