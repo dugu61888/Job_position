@@ -1,6 +1,6 @@
 # 猫眼娱乐2021校招--新文娱，大梦想，敢想敢干，钱和情怀，诗和远方都予你，简历直达部门，人生总是先人一步，***免笔试***，***免笔试***，***免笔试***
 
-![image](https://github.com/dugu61888/Job_position/blob/master/288726.png "猫眼校招")
+![image](https://github.com/dugu61888/Job_position/raw/master/288726.png "猫眼校招")
 
 ## 加入我们
 > <a href="#1">扫描二维码</a> 
@@ -28,7 +28,7 @@
 
 **二维码分享**
 
-![图片方式三永远可用](https://github.com/dugu61888/Job_position/blob/master/en_D1C4DE8A-FD65-4CF1-9782-8FB463AB1666_gaitubao_435x943.png "猫眼校招")
+![图片方式三永远可用](https://github.com/dugu61888/Job_position/raw/master/en_D1C4DE8A-FD65-4CF1-9782-8FB463AB1666_gaitubao_435x943.png "猫眼校招")
 
 ### <a id="2">方式二</a>
 
